@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZeroBot<br>🌱 I’m currently learning React <br>⚡ Fun fact is that it's not just about finding and fixing the bug, but rather about discovering the reason it was created
+🔭 I’m currently working on autodelete.xyz<br>🌱 I’m currently learning React <br>⚡ Fun fact is that it's not just about finding and fixing the bug, but rather about discovering the reason it was created
 
 
 ## 🌐 Socials:
